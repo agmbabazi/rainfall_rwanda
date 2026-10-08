@@ -1,0 +1,6 @@
+venv/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
+data/raw/download_log.json
